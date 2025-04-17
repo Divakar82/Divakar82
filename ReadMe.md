@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Kella Divakar<br><br>🔭 I’m currently working on app development projects<br>👯 I’m looking to collaborate on Android apps and UI/UX design<br>🤝 I’m looking for help with optimizing Android apps and debugging<br>🌱 I’m currently learning Android Studio and Java for Android development<br>💬 Ask me about mobile app development, Java, and UI best practices<br>⚡ Fun fact: I love exploring new tech and building cool apps!<br><br>🚀 Check out my work and let's build something amazing!
+👋 Hey there! I'm Kella Divakar<br><br>🔭 I’m currently working on app/Web development projects<br>👯 I’m looking to collaborate on Android apps and UI/UX design<br>🤝 I’m looking for help with optimizing Android apps and debugging<br>🌱 I’m currently learning Android Studio and Java for Android development<br>💬 Ask me about mobile app development, Java, and UI best practices<br>⚡ Fun fact: I love exploring new tech and building cool apps!<br><br>🚀 Check out my work and let's build something amazing!
 
 
 ## 🌐 Socials:
